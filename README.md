@@ -1,13 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=3BA4F2&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Satyajit+👋;Robotics+%26+AI%2FML+Enthusiast;B.Tech+CSE+@+IIITDM+Kancheepuram" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=3BA4F2&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Satyajit+👋;Robotics+%26+AI%2FML+Enthusiast" />
 </h1>
 
 <h3 align="center">
 Pursuing B.Tech CSE at IIITDM Kancheepuram
-</h3>
-
-<h3 align="center">
-Robotics and AI/ML Enthusiast
 </h3>
 
 ---

@@ -5,22 +5,22 @@ Pursuing B.Tech CSE at IIITDM Kancheepuram
 </h3>
 
 <h3 align="center">
-🤖 Robotics and AI/ML Enthusiast
+Robotics and AI/ML Enthusiast
 </h3>
 
 ---
 
-# 💫 About Me
+#  About Me
 
-- 🚀 Passionate about Robotics, AI/ML, and Autonomous Systems
-- 🤖 Working with ROS2, Manipulators, and Differential Drive Robots
-- 💻 Building projects involving Robotics + AI integration
-- 🌱 Currently learning MoveIt2, LangChain, and Autonomous Navigation
-- ⚡ Interested in intelligent robotic systems and real-world automation
+- Passionate about Robotics, AI/ML, and Autonomous Systems
+- Working with ROS2, Manipulators, and Differential Drive Robots
+- Building projects involving Robotics + AI integration
+- Currently learning MoveIt2, LangChain, and Autonomous Navigation
+- Interested in intelligent robotic systems and real-world automation
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -44,7 +44,7 @@ Pursuing B.Tech CSE at IIITDM Kancheepuram
 ---
 
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Pursuing B.Tech CSE at IIITDM Kancheepuram
 ---
 
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p align="center">
 

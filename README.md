@@ -76,8 +76,3 @@ Pursuing B.Tech CSE at IIITDM Kancheepuram
 
 ---
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Satyajit-147&style=for-the-badge)
-
-</div>

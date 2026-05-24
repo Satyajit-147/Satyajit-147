@@ -43,17 +43,6 @@ Pursuing B.Tech CSE at IIITDM Kancheepuram
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satyajit-147&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyajit-147&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -68,10 +57,20 @@ Pursuing B.Tech CSE at IIITDM Kancheepuram
 
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://github.com/Satyajit-147">
 <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---

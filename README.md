@@ -47,9 +47,9 @@ Pursuing B.Tech CSE at IIITDM Kancheepuram
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satyajit-147&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satyajit-147&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyajit-147&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyajit-147&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </div>
 

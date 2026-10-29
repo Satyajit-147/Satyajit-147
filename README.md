@@ -1,86 +1,80 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Hi, I'm Satyajit | Robotics & Physical AI"/>
+  <img src="./banner.svg" width="100%" alt="Hi, I'm Satyajit | I teach robots new tricks"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Robotics+%26+Physical+AI;Robot+Learning+%7C+Imitation+Learning+%7C+RL;ROS+2+%E2%80%A2+LeRobot+%E2%80%A2+PyTorch" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF8A4C&center=true&vCenter=true&width=640&lines=Robotics+%26+Physical+AI;Making+robot+arms+learn+from+demos;RL+agents+that+figure+it+out+themselves;ROS+2+%E2%80%A2+LeRobot+%E2%80%A2+PyTorch" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satyajit06/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:satyajitgr9@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Satyajit-147/Satyajit-147/blob/main/Satyajit_S_Resume.pdf"><img src="https://img.shields.io/badge/Resume-21262d?style=flat-square&logo=readthedocs&logoColor=58a6ff"/></a>
+  <a href="https://www.linkedin.com/in/satyajit06/"><img src="https://img.shields.io/badge/LinkedIn-1a0a06?style=for-the-badge&logo=linkedin&logoColor=ff8a4c"/></a>
+  <a href="mailto:satyajitgr9@gmail.com"><img src="https://img.shields.io/badge/Email-1a0a06?style=for-the-badge&logo=gmail&logoColor=ff8a4c"/></a>
+  <a href="https://github.com/Satyajit-147/Satyajit-147/blob/main/Satyajit_S_Resume.pdf"><img src="https://img.shields.io/badge/Resume-1a0a06?style=for-the-badge&logo=readthedocs&logoColor=ff8a4c"/></a>
 </p>
 
----
+<img src="./h-about.svg" width="100%" alt="About Me"/>
 
-### About Me
+Third-year **Computer Science** student at the **Indian Institute of Information Technology, Design and Manufacturing Kancheepuram (IIITDM Kancheepuram)**, and I spend most of my time convincing robots to do things. Some days that's an arm learning a task from a handful of human demos, some days it's an RL agent crashing into maze walls until it stops crashing into maze walls.
 
-I'm a third-year **Computer Science** student at the **Indian Institute of Information Technology, Design and Manufacturing Kancheepuram (IIITDM Kancheepuram)**. I work where robotics meets machine learning: teaching robot arms new tasks from human demonstrations, training reinforcement learning agents for control and navigation, and building the ROS 2 plumbing that ties it all together.
+<img src="./h-drives.svg" width="100%" alt="What Drives Me"/>
 
-### What Drives Me
+**Robotics and physical AI.** Language models got smart in a text box; I want that kind of intelligence in things with motors, grippers and LiDARs that have to deal with gravity, friction and the real world. The bit I chase most is generalisation: a robot that learns from a few demos and still copes when you move the cup.
 
-I'm interested in **robotics and physical AI**, the push to get learning systems out of the browser and into bodies that move, grasp and react to the real world. The part that hooks me is generalisation: a robot that learns a task from a handful of demos and still manages when the scene changes.
-
----
-
-### Featured Projects
+<img src="./h-projects.svg" width="100%" alt="Featured Projects"/>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Satyajit-147/VLA-Based-Bimanual-Collaborative-Stacking">VLA-Based Bimanual Collaborative Stacking</a></h4>
-      <b>Imitation Learning on Dual SO-101 Arms</b>
-      <p>Two low-cost SO-101 arms working together to stack objects, driven by vision-language-action policies trained on teleoperated demonstrations in the LeRobot framework.</p>
+      <h4><a href="https://github.com/Satyajit-147/VLA-Based-Bimanual-Collaborative-Stacking">🦾 VLA-Based Bimanual Collaborative Stacking</a></h4>
+      <b>Two arms, one stack</b>
+      <p>A pair of SO-101 arms working together to stack objects, driven by vision-language-action policies trained on teleoperated demos in LeRobot.</p>
       <b>Highlights</b>
       <ul>
         <li>Collected expert demonstration datasets through teleoperation</li>
-        <li>Trained and compared ACT, SmolVLA, π0 and GR00T policies</li>
-        <li>Deployed on real hardware for bimanual stacking</li>
+        <li>Trained and pitted ACT, SmolVLA, π0 and GR00T against each other</li>
+        <li>Ran on real hardware, not just in sim</li>
       </ul>
       <b>Tech Stack:</b> LeRobot, PyTorch, ACT, SmolVLA, π0, GR00T
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Satyajit-147/TD3-AutoNav">TD3-AutoNav</a></h4>
-      <b>Reinforcement Learning Navigation</b>
-      <p>A TD3 agent that drives a TurtleBot3 through mazes in Gazebo using LiDAR scans and the relative goal position as observations.</p>
+      <h4><a href="https://github.com/Satyajit-147/TD3-AutoNav">🧭 TD3-AutoNav</a></h4>
+      <b>A TurtleBot that learned mazes on its own</b>
+      <p>A TD3 agent that drives a TurtleBot3 through Gazebo mazes using only LiDAR scans and where the goal is relative to it.</p>
       <b>Highlights</b>
       <ul>
-        <li>BFS geodesic reward shaping for faster, smarter learning</li>
-        <li>Trained on a single maze, transfers to unseen layouts</li>
-        <li>~98% success rate on the training map</li>
+        <li>BFS geodesic reward shaping so it stops hugging dead ends</li>
+        <li>Trained on one maze, handles layouts it has never seen</li>
+        <li>~98% success on the training map</li>
       </ul>
       <b>Tech Stack:</b> ROS 2 Humble, Gazebo, Stable-Baselines3, Gymnasium
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h4><a href="https://github.com/Satyajit-147/grayscale2rgb">grayscale2rgb</a></h4>
-      <b>Diffusion-Based Face Colourisation</b>
-      <p>Brings grayscale face images to colour using a Denoising Diffusion Probabilistic Model with a custom UNet conditioned on the grayscale input.</p>
+      <h4><a href="https://github.com/Satyajit-147/grayscale2rgb">🎨 grayscale2rgb</a></h4>
+      <b>Diffusion brings old faces back to colour</b>
+      <p>Colourises grayscale face images with a Denoising Diffusion Probabilistic Model and a custom UNet conditioned on the grayscale input.</p>
       <b>Highlights</b>
       <ul>
-        <li>Classifier-free guidance during sampling for sharper colour</li>
-        <li>Pretrained checkpoint and a notebook for local inference</li>
+        <li>Classifier-free guidance during sampling for richer colour</li>
+        <li>Pretrained checkpoint and a notebook to try it locally</li>
       </ul>
       <b>Tech Stack:</b> PyTorch, DDPM, UNet
     </td>
   </tr>
 </table>
 
----
-
-### Tech Stack
+<img src="./h-stack.svg" width="100%" alt="Tech Stack"/>
 
 <h4 align="center">Robotics & Simulation</h4>
 <table align="center">
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="ROS 2"/><br/><sub>ROS 2</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/MoveIt_2-22314E?style=flat-square&logo=ros&logoColor=white" height="22"/><br/><sub>Motion Planning</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Nav2-22314E?style=flat-square&logo=ros&logoColor=white" height="22"/><br/><sub>Navigation</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square" height="22"/><br/><sub>Simulation</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/MuJoCo-0B5394?style=flat-square" height="22"/><br/><sub>Physics Sim</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="22"/><br/><sub>Robot Learning</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/MoveIt_2-1a0a06?style=flat-square&logo=ros&logoColor=ff8a4c" height="22"/><br/><sub>Motion Planning</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Nav2-1a0a06?style=flat-square&logo=ros&logoColor=ff8a4c" height="22"/><br/><sub>Navigation</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Gazebo-1a0a06?style=flat-square&logoColor=ff8a4c" height="22"/><br/><sub>Simulation</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/MuJoCo-1a0a06?style=flat-square" height="22"/><br/><sub>Physics Sim</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/LeRobot-1a0a06?style=flat-square&logo=huggingface&logoColor=ff8a4c" height="22"/><br/><sub>Robot Learning</sub></td>
   </tr>
 </table>
 
@@ -91,8 +85,8 @@ I'm interested in **robotics and physical AI**, the push to get learning systems
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV"/><br/><sub>OpenCV</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn"/><br/><sub>scikit-learn</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/SB3-5C5C5C?style=flat-square" height="22"/><br/><sub>Stable-Baselines3</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square" height="22"/><br/><sub>Detection</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/SB3-1a0a06?style=flat-square" height="22"/><br/><sub>Stable-Baselines3</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/YOLO-1a0a06?style=flat-square" height="22"/><br/><sub>Detection</sub></td>
   </tr>
 </table>
 
@@ -108,42 +102,45 @@ I'm interested in **robotics and physical AI**, the push to get learning systems
   </tr>
 </table>
 
----
-
-### GitHub Analytics
+<img src="./h-analytics.svg" width="100%" alt="GitHub Analytics"/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyajit-147&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=1f6feb" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Satyajit-147&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc&stroke=30363d" height="170"/>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyajit-147&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyajit-147&bg_color=0d1117&color=58a6ff&line=1f6feb&point=a5d6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contributions" height="165"/>
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Satyajit-147&hide_border=true&background=0d1117&ring=ff6a2a&fire=ffb36b&currStreakLabel=ff8a4c&sideLabels=e6d5c9&dates=a8907f&currStreakNum=fff4ea&sideNums=fff4ea&stroke=3a1a10" height="180"/>
 </p>
 
----
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="180"/>
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="180"/>
+</p>
 
-### Current Focus & Interests
+<img src="./h-focus.svg" width="100%" alt="Current Focus and Interests"/>
 
 ```python
 satyajit = {
-    "studying":   "B.Tech CSE @ IIITDM Kancheepuram",
-    "interests":  ["Physical AI", "Robotic Manipulation", "Imitation Learning",
-                   "Vision-Language-Action Models", "Reinforcement Learning", "World Models"],
+    "studying":      "B.Tech CSE @ IIITDM Kancheepuram",
+    "obsessed_with": ["Physical AI", "Robotic Manipulation", "Imitation Learning",
+                      "Vision-Language-Action Models", "Reinforcement Learning", "World Models"],
     "building_with": ["ROS 2", "MoveIt 2", "LeRobot", "PyTorch", "Gazebo", "MuJoCo"],
-    "open_to":    "robotics internships and research collaborations",
+    "open_to":       "robotics internships and research collabs",
+    "fuel":          "coffee and failed rollouts",
 }
 ```
 
----
+<img src="./h-beyond.svg" width="100%" alt="Beyond Code"/>
 
-### Beyond Code
-
-Always happy to talk robots, RL papers, or anything that moves. If you're working on something in robot learning, I'd love to hear about it.
+Always up for talking robots, RL papers, or anything with a motor in it. If you're working on robot learning, or just have a cool robot video, send it my way.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satyajit06/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:satyajitgr9@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Satyajit-147&style=for-the-badge&color=21262d&label=PROFILE+VIEWS"/>
+  <a href="https://www.linkedin.com/in/satyajit06/"><img src="https://img.shields.io/badge/LinkedIn-1a0a06?style=for-the-badge&logo=linkedin&logoColor=ff8a4c"/></a>
+  <a href="mailto:satyajitgr9@gmail.com"><img src="https://img.shields.io/badge/Email-1a0a06?style=for-the-badge&logo=gmail&logoColor=ff8a4c"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Satyajit-147&style=for-the-badge&color=c2410c&label=PROFILE+VIEWS"/>
+</p>
+
+<p align="center">
+  <img src="./footer.svg" width="100%" alt="thanks for stopping by"/>
 </p>

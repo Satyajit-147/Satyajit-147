@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Hi, I'm Satyajit S | robotics & physical AI"/>
+  <img src="./banner.svg" width="100%" alt="Hi, I'm Satyajit | robotics & physical AI"/>
 </p>
 
 <p align="center">
@@ -12,15 +12,15 @@
   <a href="https://github.com/Satyajit-147/Satyajit-147/blob/main/Satyajit_S_Resume.pdf"><img src="https://img.shields.io/badge/Resume-2a1a4a?style=for-the-badge&logo=readthedocs&logoColor=f5a8d0"/></a>
 </p>
 
-<img src="./h-about.svg" width="100%" alt="About Me"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=F5A8D0&vCenter=true&repeat=false&width=700&height=50&lines=About+Me" alt="About Me"/>
 
 Third-year **Computer Science** student at the **Indian Institute of Information Technology, Design and Manufacturing Kancheepuram (IIITDM Kancheepuram)**, and I spend most of my time convincing robots to do things. Some days that's an arm learning a task from a handful of human demos, some days it's an RL agent crashing into maze walls until it stops crashing into maze walls.
 
-<img src="./h-drives.svg" width="100%" alt="What Drives Me"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=F5A8D0&vCenter=true&repeat=false&width=700&height=50&lines=What+Drives+Me" alt="What Drives Me"/>
 
 **Robotics and physical AI.** Language models got smart in a text box; I want that kind of intelligence in things with motors, grippers and LiDARs that have to deal with gravity, friction and the real world. The bit I chase most is generalisation: a robot that learns from a few demos and still copes when you move the cup.
 
-<img src="./h-projects.svg" width="100%" alt="Featured Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=F5A8D0&vCenter=true&repeat=false&width=700&height=50&lines=Featured+Projects" alt="Featured Projects"/>
 
 <table>
   <tr>
@@ -64,7 +64,7 @@ Third-year **Computer Science** student at the **Indian Institute of Information
   </tr>
 </table>
 
-<img src="./h-stack.svg" width="100%" alt="Tech Stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=F5A8D0&vCenter=true&repeat=false&width=700&height=50&lines=Tech+Stack" alt="Tech Stack"/>
 
 <h4 align="center">Robotics & Simulation</h4>
 <table align="center">
@@ -102,23 +102,25 @@ Third-year **Computer Science** student at the **Indian Institute of Information
   </tr>
 </table>
 
-<img src="./h-analytics.svg" width="100%" alt="GitHub Analytics"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=F5A8D0&vCenter=true&repeat=false&width=700&height=50&lines=GitHub+Analytics" alt="GitHub Analytics"/>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Satyajit-147&hide_border=true&background=1b1030&ring=b49cff&fire=f5a8d0&currStreakLabel=f5a8d0&sideLabels=e9defc&dates=a99bc4&currStreakNum=fff4fa&sideNums=fff4fa&stroke=3b2470" width="70%"/>
+</p>
+
+<!--
+  More stats cards: create .github/workflows/summary-cards.yml, run it once from the Actions tab,
+  then delete this comment's opening and closing lines.
 <p align="center">
   <img src="./profile-summary-card-output/dracula/0-profile-details.svg" width="100%"/>
 </p>
-
 <p align="center">
   <img src="./profile-summary-card-output/dracula/3-stats.svg" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=Satyajit-147&hide_border=true&background=1b1030&ring=b49cff&fire=f5a8d0&currStreakLabel=f5a8d0&sideLabels=e9defc&dates=a99bc4&currStreakNum=fff4fa&sideNums=fff4fa&stroke=3b2470" height="180"/>
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" height="180"/>
   <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" height="180"/>
 </p>
+-->
 
-<img src="./h-focus.svg" width="100%" alt="Current Focus and Interests"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=F5A8D0&vCenter=true&repeat=false&width=700&height=50&lines=Current+Focus+%26+Interests" alt="Current Focus & Interests"/>
 
 ```python
 satyajit = {
@@ -131,7 +133,7 @@ satyajit = {
 }
 ```
 
-<img src="./h-beyond.svg" width="100%" alt="Beyond Code"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=F5A8D0&vCenter=true&repeat=false&width=700&height=50&lines=Beyond+Code" alt="Beyond Code"/>
 
 Always up for talking robots, RL papers, or anything with a motor in it. If you're working on robot learning, or just have a cool robot video, send it my way.
 

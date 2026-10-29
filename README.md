@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Hi, I'm Satyajit | robotics & physical AI"/>
+  <img src="./banner.svg" width="100%" alt="Hi, I'm Satyajit S | robotics & physical AI"/>
 </p>
 
 <p align="center">

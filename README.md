@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Hi, I'm Satyajit | I teach robots new tricks"/>
+  <img src="./banner.svg" width="100%" alt="Hi, I'm Satyajit | robotics & physical AI"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF8A4C&center=true&vCenter=true&width=640&lines=Robotics+%26+Physical+AI;Making+robot+arms+learn+from+demos;RL+agents+that+figure+it+out+themselves;ROS+2+%E2%80%A2+LeRobot+%E2%80%A2+PyTorch" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F5A8D0&center=true&vCenter=true&width=640&lines=Robotics+%26+Physical+AI;Making+robot+arms+learn+from+demos;RL+agents+that+figure+it+out+themselves;ROS+2+%E2%80%A2+LeRobot+%E2%80%A2+PyTorch" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satyajit06/"><img src="https://img.shields.io/badge/LinkedIn-1a0a06?style=for-the-badge&logo=linkedin&logoColor=ff8a4c"/></a>
-  <a href="mailto:satyajitgr9@gmail.com"><img src="https://img.shields.io/badge/Email-1a0a06?style=for-the-badge&logo=gmail&logoColor=ff8a4c"/></a>
-  <a href="https://github.com/Satyajit-147/Satyajit-147/blob/main/Satyajit_S_Resume.pdf"><img src="https://img.shields.io/badge/Resume-1a0a06?style=for-the-badge&logo=readthedocs&logoColor=ff8a4c"/></a>
+  <a href="https://www.linkedin.com/in/satyajit06/"><img src="https://img.shields.io/badge/LinkedIn-2a1a4a?style=for-the-badge&logo=linkedin&logoColor=f5a8d0"/></a>
+  <a href="mailto:satyajitgr9@gmail.com"><img src="https://img.shields.io/badge/Email-2a1a4a?style=for-the-badge&logo=gmail&logoColor=f5a8d0"/></a>
+  <a href="https://github.com/Satyajit-147/Satyajit-147/blob/main/Satyajit_S_Resume.pdf"><img src="https://img.shields.io/badge/Resume-2a1a4a?style=for-the-badge&logo=readthedocs&logoColor=f5a8d0"/></a>
 </p>
 
 <img src="./h-about.svg" width="100%" alt="About Me"/>
@@ -70,11 +70,11 @@ Third-year **Computer Science** student at the **Indian Institute of Information
 <table align="center">
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="ROS 2"/><br/><sub>ROS 2</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/MoveIt_2-1a0a06?style=flat-square&logo=ros&logoColor=ff8a4c" height="22"/><br/><sub>Motion Planning</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Nav2-1a0a06?style=flat-square&logo=ros&logoColor=ff8a4c" height="22"/><br/><sub>Navigation</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Gazebo-1a0a06?style=flat-square&logoColor=ff8a4c" height="22"/><br/><sub>Simulation</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/MuJoCo-1a0a06?style=flat-square" height="22"/><br/><sub>Physics Sim</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/LeRobot-1a0a06?style=flat-square&logo=huggingface&logoColor=ff8a4c" height="22"/><br/><sub>Robot Learning</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/MoveIt_2-2a1a4a?style=flat-square&logo=ros&logoColor=f5a8d0" height="22"/><br/><sub>Motion Planning</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Nav2-2a1a4a?style=flat-square&logo=ros&logoColor=f5a8d0" height="22"/><br/><sub>Navigation</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Gazebo-2a1a4a?style=flat-square&logoColor=f5a8d0" height="22"/><br/><sub>Simulation</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/MuJoCo-2a1a4a?style=flat-square" height="22"/><br/><sub>Physics Sim</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/LeRobot-2a1a4a?style=flat-square&logo=huggingface&logoColor=f5a8d0" height="22"/><br/><sub>Robot Learning</sub></td>
   </tr>
 </table>
 
@@ -85,8 +85,8 @@ Third-year **Computer Science** student at the **Indian Institute of Information
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV"/><br/><sub>OpenCV</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn"/><br/><sub>scikit-learn</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/SB3-1a0a06?style=flat-square" height="22"/><br/><sub>Stable-Baselines3</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/YOLO-1a0a06?style=flat-square" height="22"/><br/><sub>Detection</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/SB3-2a1a4a?style=flat-square" height="22"/><br/><sub>Stable-Baselines3</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/YOLO-2a1a4a?style=flat-square" height="22"/><br/><sub>Detection</sub></td>
   </tr>
 </table>
 
@@ -105,17 +105,17 @@ Third-year **Computer Science** student at the **Indian Institute of Information
 <img src="./h-analytics.svg" width="100%" alt="GitHub Analytics"/>
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%"/>
+  <img src="./profile-summary-card-output/dracula/0-profile-details.svg" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=Satyajit-147&hide_border=true&background=0d1117&ring=ff6a2a&fire=ffb36b&currStreakLabel=ff8a4c&sideLabels=e6d5c9&dates=a8907f&currStreakNum=fff4ea&sideNums=fff4ea&stroke=3a1a10" height="180"/>
+  <img src="./profile-summary-card-output/dracula/3-stats.svg" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Satyajit-147&hide_border=true&background=1b1030&ring=b49cff&fire=f5a8d0&currStreakLabel=f5a8d0&sideLabels=e9defc&dates=a99bc4&currStreakNum=fff4fa&sideNums=fff4fa&stroke=3b2470" height="180"/>
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="180"/>
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="180"/>
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" height="180"/>
+  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" height="180"/>
 </p>
 
 <img src="./h-focus.svg" width="100%" alt="Current Focus and Interests"/>
@@ -136,9 +136,9 @@ satyajit = {
 Always up for talking robots, RL papers, or anything with a motor in it. If you're working on robot learning, or just have a cool robot video, send it my way.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satyajit06/"><img src="https://img.shields.io/badge/LinkedIn-1a0a06?style=for-the-badge&logo=linkedin&logoColor=ff8a4c"/></a>
-  <a href="mailto:satyajitgr9@gmail.com"><img src="https://img.shields.io/badge/Email-1a0a06?style=for-the-badge&logo=gmail&logoColor=ff8a4c"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Satyajit-147&style=for-the-badge&color=c2410c&label=PROFILE+VIEWS"/>
+  <a href="https://www.linkedin.com/in/satyajit06/"><img src="https://img.shields.io/badge/LinkedIn-2a1a4a?style=for-the-badge&logo=linkedin&logoColor=f5a8d0"/></a>
+  <a href="mailto:satyajitgr9@gmail.com"><img src="https://img.shields.io/badge/Email-2a1a4a?style=for-the-badge&logo=gmail&logoColor=f5a8d0"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Satyajit-147&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 </p>
 
 <p align="center">

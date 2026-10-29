@@ -1,26 +1,26 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Hi, I'm Satyajit | robotics & physical AI"/>
+  <img src="./night-banner.svg" width="100%" alt="Hi, I'm Satyajit | robotics & physical AI"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F5A8D0&center=true&vCenter=true&width=640&lines=Robotics+%26+Physical+AI;Making+robot+arms+learn+from+demos;RL+agents+that+figure+it+out+themselves;ROS+2+%E2%80%A2+LeRobot+%E2%80%A2+PyTorch" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9FD3FF&center=true&vCenter=true&width=640&lines=Robotics+%26+Physical+AI;Making+robot+arms+learn+from+demos;RL+agents+that+figure+it+out+themselves;ROS+2+%E2%80%A2+LeRobot+%E2%80%A2+PyTorch" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satyajit06/"><img src="https://img.shields.io/badge/LinkedIn-2a1a4a?style=for-the-badge&logo=linkedin&logoColor=f5a8d0"/></a>
-  <a href="mailto:satyajitgr9@gmail.com"><img src="https://img.shields.io/badge/Email-2a1a4a?style=for-the-badge&logo=gmail&logoColor=f5a8d0"/></a>
-  <a href="https://github.com/Satyajit-147/Satyajit-147/blob/main/Satyajit_S_Resume.pdf"><img src="https://img.shields.io/badge/Resume-2a1a4a?style=for-the-badge&logo=readthedocs&logoColor=f5a8d0"/></a>
+  <a href="https://www.linkedin.com/in/satyajit06/"><img src="https://img.shields.io/badge/LinkedIn-0a1626?style=for-the-badge&logo=linkedin&logoColor=9fd3ff"/></a>
+  <a href="mailto:satyajitgr9@gmail.com"><img src="https://img.shields.io/badge/Email-0a1626?style=for-the-badge&logo=gmail&logoColor=9fd3ff"/></a>
+  <a href="https://github.com/Satyajit-147/Satyajit-147/blob/main/Satyajit_S_Resume.pdf"><img src="https://img.shields.io/badge/Resume-0a1626?style=for-the-badge&logo=readthedocs&logoColor=9fd3ff"/></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=F5A8D0&vCenter=true&repeat=false&width=700&height=50&lines=About+Me" alt="About Me"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=9FD3FF&vCenter=true&repeat=false&width=700&height=50&lines=About+Me" alt="About Me"/>
 
 Third-year **Computer Science** student at the **Indian Institute of Information Technology, Design and Manufacturing Kancheepuram (IIITDM Kancheepuram)**, and I spend most of my time convincing robots to do things. Some days that's an arm learning a task from a handful of human demos, some days it's an RL agent crashing into maze walls until it stops crashing into maze walls.
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=F5A8D0&vCenter=true&repeat=false&width=700&height=50&lines=What+Drives+Me" alt="What Drives Me"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=9FD3FF&vCenter=true&repeat=false&width=700&height=50&lines=What+Drives+Me" alt="What Drives Me"/>
 
 **Robotics and physical AI.** Language models got smart in a text box; I want that kind of intelligence in things with motors, grippers and LiDARs that have to deal with gravity, friction and the real world. The bit I chase most is generalisation: a robot that learns from a few demos and still copes when you move the cup.
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=F5A8D0&vCenter=true&repeat=false&width=700&height=50&lines=Featured+Projects" alt="Featured Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=9FD3FF&vCenter=true&repeat=false&width=700&height=50&lines=Featured+Projects" alt="Featured Projects"/>
 
 <table>
   <tr>
@@ -64,17 +64,17 @@ Third-year **Computer Science** student at the **Indian Institute of Information
   </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=F5A8D0&vCenter=true&repeat=false&width=700&height=50&lines=Tech+Stack" alt="Tech Stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=9FD3FF&vCenter=true&repeat=false&width=700&height=50&lines=Tech+Stack" alt="Tech Stack"/>
 
 <h4 align="center">Robotics & Simulation</h4>
 <table align="center">
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="ROS 2"/><br/><sub>ROS 2</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/MoveIt_2-2a1a4a?style=flat-square&logo=ros&logoColor=f5a8d0" height="22"/><br/><sub>Motion Planning</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Nav2-2a1a4a?style=flat-square&logo=ros&logoColor=f5a8d0" height="22"/><br/><sub>Navigation</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Gazebo-2a1a4a?style=flat-square&logoColor=f5a8d0" height="22"/><br/><sub>Simulation</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/MuJoCo-2a1a4a?style=flat-square" height="22"/><br/><sub>Physics Sim</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/LeRobot-2a1a4a?style=flat-square&logo=huggingface&logoColor=f5a8d0" height="22"/><br/><sub>Robot Learning</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/MoveIt_2-0a1626?style=flat-square&logo=ros&logoColor=9fd3ff" height="22"/><br/><sub>Motion Planning</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Nav2-0a1626?style=flat-square&logo=ros&logoColor=9fd3ff" height="22"/><br/><sub>Navigation</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Gazebo-0a1626?style=flat-square&logoColor=9fd3ff" height="22"/><br/><sub>Simulation</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/MuJoCo-0a1626?style=flat-square" height="22"/><br/><sub>Physics Sim</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/LeRobot-0a1626?style=flat-square&logo=huggingface&logoColor=9fd3ff" height="22"/><br/><sub>Robot Learning</sub></td>
   </tr>
 </table>
 
@@ -85,8 +85,8 @@ Third-year **Computer Science** student at the **Indian Institute of Information
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV"/><br/><sub>OpenCV</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn"/><br/><sub>scikit-learn</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/SB3-2a1a4a?style=flat-square" height="22"/><br/><sub>Stable-Baselines3</sub></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/YOLO-2a1a4a?style=flat-square" height="22"/><br/><sub>Detection</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/SB3-0a1626?style=flat-square" height="22"/><br/><sub>Stable-Baselines3</sub></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/YOLO-0a1626?style=flat-square" height="22"/><br/><sub>Detection</sub></td>
   </tr>
 </table>
 
@@ -102,25 +102,25 @@ Third-year **Computer Science** student at the **Indian Institute of Information
   </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=F5A8D0&vCenter=true&repeat=false&width=700&height=50&lines=GitHub+Analytics" alt="GitHub Analytics"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=9FD3FF&vCenter=true&repeat=false&width=700&height=50&lines=GitHub+Analytics" alt="GitHub Analytics"/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Satyajit-147&hide_border=true&background=1b1030&ring=b49cff&fire=f5a8d0&currStreakLabel=f5a8d0&sideLabels=e9defc&dates=a99bc4&currStreakNum=fff4fa&sideNums=fff4fa&stroke=3b2470" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=Satyajit-147&hide_border=true&background=0a1626&ring=3d8fd1&fire=9fd3ff&currStreakLabel=9fd3ff&sideLabels=cfe8ff&dates=7f9bb8&currStreakNum=f2f8ff&sideNums=f2f8ff&stroke=12304d" width="70%"/>
 </p>
 
 <!--
   More stats cards: create .github/workflows/summary-cards.yml, run it once from the Actions tab,
   then delete this comment's opening and closing lines.
 <p align="center">
-  <img src="./profile-summary-card-output/dracula/0-profile-details.svg" width="100%"/>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%"/>
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/dracula/3-stats.svg" height="180"/>
-  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" height="180"/>
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="180"/>
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="180"/>
 </p>
 -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=F5A8D0&vCenter=true&repeat=false&width=700&height=50&lines=Current+Focus+%26+Interests" alt="Current Focus & Interests"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=9FD3FF&vCenter=true&repeat=false&width=700&height=50&lines=Current+Focus+%26+Interests" alt="Current Focus & Interests"/>
 
 ```python
 satyajit = {
@@ -133,16 +133,16 @@ satyajit = {
 }
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=F5A8D0&vCenter=true&repeat=false&width=700&height=50&lines=Beyond+Code" alt="Beyond Code"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=1400&pause=60000&color=9FD3FF&vCenter=true&repeat=false&width=700&height=50&lines=Beyond+Code" alt="Beyond Code"/>
 
 Always up for talking robots, RL papers, or anything with a motor in it. If you're working on robot learning, or just have a cool robot video, send it my way.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satyajit06/"><img src="https://img.shields.io/badge/LinkedIn-2a1a4a?style=for-the-badge&logo=linkedin&logoColor=f5a8d0"/></a>
-  <a href="mailto:satyajitgr9@gmail.com"><img src="https://img.shields.io/badge/Email-2a1a4a?style=for-the-badge&logo=gmail&logoColor=f5a8d0"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Satyajit-147&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+  <a href="https://www.linkedin.com/in/satyajit06/"><img src="https://img.shields.io/badge/LinkedIn-0a1626?style=for-the-badge&logo=linkedin&logoColor=9fd3ff"/></a>
+  <a href="mailto:satyajitgr9@gmail.com"><img src="https://img.shields.io/badge/Email-0a1626?style=for-the-badge&logo=gmail&logoColor=9fd3ff"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Satyajit-147&style=for-the-badge&color=1c5a8a&label=PROFILE+VIEWS"/>
 </p>
 
 <p align="center">
-  <img src="./footer.svg" width="100%" alt="thanks for stopping by"/>
+  <img src="./night-footer.svg" width="100%" alt="thanks for stopping by"/>
 </p>

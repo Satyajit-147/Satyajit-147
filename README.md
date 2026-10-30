@@ -128,8 +128,7 @@ satyajit = {
     "obsessed_with": ["Physical AI", "Robotic Manipulation", "Imitation Learning",
                       "Vision-Language-Action Models", "Reinforcement Learning", "World Models"],
     "building_with": ["ROS 2", "MoveIt 2", "LeRobot", "PyTorch", "Gazebo", "MuJoCo"],
-    "open_to":       "robotics internships and research collabs",
-    "fuel":          "coffee and failed rollouts",
+    "open_to":       "robotics internships and research collabs"
 }
 ```
 

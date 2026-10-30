@@ -139,8 +139,6 @@ Always up for talking robots, RL papers, or anything with a motor in it. If you'
 <p align="center">
   <a href="https://www.linkedin.com/in/satyajit06/"><img src="https://img.shields.io/badge/LinkedIn-0a1626?style=for-the-badge&logo=linkedin&logoColor=9fd3ff"/></a>
   <a href="mailto:satyajitgr9@gmail.com"><img src="https://img.shields.io/badge/Email-0a1626?style=for-the-badge&logo=gmail&logoColor=9fd3ff"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Satyajit-147&style=for-the-badge&color=1c5a8a&label=PROFILE+VIEWS"/>
-</p>
 
 <p align="center">
   <img src="./night-footer.svg" width="100%" alt="thanks for stopping by"/>

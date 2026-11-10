@@ -35,7 +35,6 @@ Third-year **Computer Science** student at the **Indian Institute of Information
         <li>Ran on real hardware, not just in sim</li>
       </ul>
       <b>Tech Stack:</b> LeRobot, PyTorch, ACT, SmolVLA, π0, GR00T
-      <br/><sub>Research placement at IIT Bombay (eYSIP). Code is not public yet.</sub>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Satyajit-147/TD3-AutoNav">🧭 TD3-AutoNav</a></h4>

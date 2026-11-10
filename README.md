@@ -50,7 +50,33 @@ Third-year **Computer Science** student at the **Indian Institute of Information
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Satyajit-147/cartesian-control-for-5-DOF-manipulator">🕹️ Cartesian Control for a 5-DOF Manipulator</a></h4>
+      <b>Drive the tool, not the joints</b>
+      <p>Real-time Cartesian teleoperation of a custom 5-DOF arm: keyboard twists go through MoveIt Servo, which solves the inverse kinematics on the fly.</p>
+      <b>Highlights</b>
+      <ul>
+        <li>MoveIt Servo streaming joint commands at 100 Hz through ros2_control</li>
+        <li>Bridge nodes that pass commands and joint feedback to the real motors</li>
+        <li>Custom URDF exported from CAD, with a four-bar gripper model</li>
+      </ul>
+      <b>Tech Stack:</b> ROS 2 Humble, MoveIt 2, MoveIt Servo, ros2_control
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Satyajit-147/VizDoom">🎮 RL QA Tester (ViZDoom)</a></h4>
+      <b>An agent that plays Doom levels to find their bugs</b>
+      <p>A team project: testers explore generated levels with planted bugs, and their reports are scored against a hidden answer key.</p>
+      <b>Highlights</b>
+      <ul>
+        <li>Go-Explore tester explored 92% of a 12-room map and found 3 of 4 planted bugs on all 5 seeds</li>
+        <li>Bug detectors raised 0 false alarms on 104 bug-free maps</li>
+        <li>PPO, scripted and random testers compared on the same maps</li>
+      </ul>
+      <b>Tech Stack:</b> ViZDoom, Gymnasium, PyTorch, PPO, Go-Explore
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/Satyajit-147/grayscale2rgb">🎨 grayscale2rgb</a></h4>
       <b>Diffusion brings old faces back to colour</b>
       <p>Colourises grayscale face images with a Denoising Diffusion Probabilistic Model and a custom UNet conditioned on the grayscale input.</p>
@@ -60,6 +86,17 @@ Third-year **Computer Science** student at the **Indian Institute of Information
         <li>Pretrained checkpoint and a notebook to try it locally</li>
       </ul>
       <b>Tech Stack:</b> PyTorch, DDPM, UNet
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Satyajit-147/stable-diffusion">🖼️ Stable Diffusion from Scratch</a></h4>
+      <b>Text to image, one module at a time</b>
+      <p>A PyTorch implementation of the Stable Diffusion v1.5 architecture, written module by module and run with the pretrained v1.5 weights.</p>
+      <b>Highlights</b>
+      <ul>
+        <li>VAE encoder and decoder, CLIP text encoder and conditional UNet implemented by hand</li>
+        <li>DDPM sampler and a notebook for text-to-image generation</li>
+      </ul>
+      <b>Tech Stack:</b> PyTorch, DDPM, CLIP, VAE
     </td>
   </tr>
 </table>

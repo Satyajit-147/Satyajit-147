@@ -25,7 +25,7 @@ Third-year **Computer Science** student at the **Indian Institute of Information
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Satyajit-147/VLA-Based-Bimanual-Collaborative-Stacking">🦾 VLA-Based Bimanual Collaborative Stacking</a></h4>
+      <h4>🦾 VLA-Based Bimanual Collaborative Stacking</h4>
       <b>Two arms, one stack</b>
       <p>A pair of SO-101 arms working together to stack objects, driven by vision-language-action policies trained on teleoperated demos in LeRobot.</p>
       <b>Highlights</b>
@@ -35,6 +35,7 @@ Third-year **Computer Science** student at the **Indian Institute of Information
         <li>Ran on real hardware, not just in sim</li>
       </ul>
       <b>Tech Stack:</b> LeRobot, PyTorch, ACT, SmolVLA, π0, GR00T
+      <br/><sub>Research placement at IIT Bombay (eYSIP). Code is not public yet.</sub>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Satyajit-147/TD3-AutoNav">🧭 TD3-AutoNav</a></h4>
